@@ -1,2 +1,2 @@
-# book-shop
-An e-commerce book shop for who love reading
+# Book Store
+An e-commerce book store for who love reading
