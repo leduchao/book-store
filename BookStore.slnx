@@ -5,13 +5,13 @@
   </Folder>
   <Folder Name="/src/Modules/" />
   <Folder Name="/src/Modules/Catalog/">
-    <Project Path="src/Modules/Catalog/BookStore.Catalog.Application/BookStore.Catalog.Application.csproj" />
-    <Project Path="src/Modules/Catalog/BookStore.Catalog.Domain/BookStore.Catalog.Domain.csproj" />
-    <Project Path="src/Modules/Catalog/BookStore.Catalog.Infrastructure/BookStore.Catalog.Infrastructure.csproj" />
+    <Project Path="src/Modules/Catalog/BookStore.Modules.Catalog.Application/BookStore.Modules.Catalog.Application.csproj" />
+    <Project Path="src/Modules/Catalog/BookStore.Modules.Catalog.Domain/BookStore.Modules.Catalog.Domain.csproj" />
+    <Project Path="src/Modules/Catalog/BookStore.Modules.Catalog.Infrastructure/BookStore.Modules.Catalog.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/src/Modules/Identity/">
-    <Project Path="src/Modules/Identity/BookStore.Identity.Application/BookStore.Identity.Application.csproj" />
-    <Project Path="src/Modules/Identity/BookStore.Identity.Domain/BookStore.Identity.Domain.csproj" />
-    <Project Path="src/Modules/Identity/BookStore.Identity.Infrastructure/BookStore.Identity.Infrastructure.csproj" />
+    <Project Path="src/Modules/Identity/BookStore.Modules.Identity.Application/BookStore.Modules.Identity.Application.csproj" />
+    <Project Path="src/Modules/Identity/BookStore.Modules.Identity.Domain/BookStore.Modules.Identity.Domain.csproj" />
+    <Project Path="src/Modules/Identity/BookStore.Modules.Identity.Infrastructure/BookStore.Modules.Identity.Infrastructure.csproj" />
   </Folder>
 </Solution>

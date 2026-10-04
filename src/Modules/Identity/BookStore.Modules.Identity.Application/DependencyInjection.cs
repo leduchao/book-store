@@ -1,6 +1,6 @@
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BookStore.Catalog.Application;
+namespace BookStore.Modules.Identity.Application;
 
 public static class DependencyInjection
 {

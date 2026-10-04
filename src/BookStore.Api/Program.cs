@@ -1,5 +1,5 @@
-using BookStore.Catalog.Infrastructure;
-using BookStore.Identity.Infrastructure;
+using BookStore.Modules.Catalog.Infrastructure;
+using BookStore.Modules.Identity.Infrastructure;
 using BookStore.Shared.Result;
 
 var builder = WebApplication.CreateBuilder(args);

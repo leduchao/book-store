@@ -1,7 +1,7 @@
-using BookStore.Catalog.Application;
+using BookStore.Modules.Catalog.Application;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BookStore.Catalog.Infrastructure;
+namespace BookStore.Modules.Catalog.Infrastructure;
 
 public static class DependencyInjection
 {

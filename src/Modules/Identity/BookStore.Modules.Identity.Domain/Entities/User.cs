@@ -1,6 +1,6 @@
 using BookStore.Shared.Contract;
 
-namespace BookStore.Identity.Domain.Entities;
+namespace BookStore.Modules.Identity.Domain.Entities;
 
 public class User : BaseEntity
 {
