@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BookStore.Api/BookStore.Api.csproj" />
+    <Project Path="src/BookStore.Shared/BookStore.Shared.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Catalog/">
+    <Project Path="src/Modules/Catalog/BookStore.Catalog.Application/BookStore.Catalog.Application.csproj" />
+    <Project Path="src/Modules/Catalog/BookStore.Catalog.Domain/BookStore.Catalog.Domain.csproj" />
+    <Project Path="src/Modules/Catalog/BookStore.Catalog.Infrastructure/BookStore.Catalog.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/BookStore.Identity.Application/BookStore.Identity.Application.csproj" />
+    <Project Path="src/Modules/Identity/BookStore.Identity.Domain/BookStore.Identity.Domain.csproj" />
+    <Project Path="src/Modules/Identity/BookStore.Identity.Infrastructure/BookStore.Identity.Infrastructure.csproj" />
+  </Folder>
+</Solution>
